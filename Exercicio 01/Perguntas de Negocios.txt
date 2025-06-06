@@ -1,0 +1,11 @@
+- Criar um simulador simples de investimentos
+
+Quanto investir por mês ?
+
+Por quantos anos ?
+
+Taxa de rendimento mensal ?
+
+Quanto de patrimônio acumulado ?
+
+Dividendos mensais?
